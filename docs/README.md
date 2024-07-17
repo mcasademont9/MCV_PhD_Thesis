@@ -6,7 +6,7 @@ This repository brings together the resources, materials and code generated for 
 
 ## PDF links
 
-[Download my PhD Thesis](https://github.com/mcasademont9/MCV_PhD_Thesis/blob/main/docs/assets/PhD%20Files/ClassicThesis.pdf)
+[Download my PhD Thesis](https://mcasademont9.github.io/MCV_PhD_Thesis/docs/assets/PhD%20Files/ClassicThesis.pdf)
 
 <br />
 
