@@ -1,4 +1,4 @@
-# Advances of RAINBOW organic solar cells 
+# Advances in RAINBOW organic solar cells 
 
 PhD Thesis - [Miquel Casademont Viñas](https://orcid.org/0000-0002-2848-9069) (2024)
 
