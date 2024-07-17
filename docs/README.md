@@ -1,13 +1,12 @@
 # Advances of RAINBOW organic solar cells 
 
-PhD Thesis - Miquel Casademont Viñas (2024)
+PhD Thesis - [Miquel Casademont Viñas](https://orcid.org/0000-0002-2848-9069) (2024)
 
-This repository brings together the resources, materials and code generated for and in relation to the doctoral thesis of [Miquel Casademont Viñas](https://orcid.org/0000-0002-2848-9069).
-
+This repository brings together the resources, materials and code generated for and in relation to my doctoral thesis.
 
 ## PDF links
 
-HERE GOES THE LINK TO THE PDF FILES
+[Download my PhD Thesis](https://github.com/mcasademont9/MCV_PhD_Thesis/blob/main/docs/assets/PhD%20Files/ClassicThesis.pdf)
 
 <br />
 
