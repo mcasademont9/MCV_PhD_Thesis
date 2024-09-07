@@ -3,6 +3,7 @@
 PhD Thesis - [Miquel Casademont Viñas](https://orcid.org/0000-0002-2848-9069) (2024)
 
 Welcome to my PhD thesis repository. Here, you will find my thesis in .pdf and other related resources. 
+My email: mcasademont@icmab.es
 
 ## Resources
 
