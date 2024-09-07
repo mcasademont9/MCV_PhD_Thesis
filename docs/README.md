@@ -31,7 +31,7 @@ Architectures. Advanced Materials, 2212226 (2023). DOI: [10.1002/adma.202212226]
 * M. Casademont-Viñas, M. Gibert-Roca, M. Campoy-Quiles
 and A. R. Goñi. Spectrum on demand light source (SOLS)
 for advanced photovoltaic characterization. Review of Scientific
-Instruments 94, 103907 (2023). DOI: [10.1063/5.0156236/2917787](https://doi.org/10.1063/5.0156236)
+Instruments 94, 103907 (2023). DOI: [10.1063/5.0156236](https://doi.org/10.1063/5.0156236)
 
 * M. Casademont-Viñas, D. Capolat, A. Quesada-Ramírez, M.
 Reinfelds, G. Trimmel, M. Sanviti, J. Martín, A. R. Goñi, T.
