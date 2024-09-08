@@ -7,7 +7,7 @@ My email: mcasademont@icmab.es
 
 ## Resources
 
-[Download my PhD Thesis](https://mcasademont9.github.io/MCV_PhD_Thesis/assets/PhD%20Files/ClassicThesis.pdf)
+[Download my PhD Thesis](https://mcasademont9.github.io/MCV_PhD_Thesis/assets/PhD%20Files/PhDManuscript_MCV_Towards_organic_multi-junction_RAINBOW_solar_cells.pdf)
 <br />
 [My Google Scholar profile](https://scholar.google.com/citations?user=hrZ4Q7gAAAAJ&hl=en&oi=sra)
 
